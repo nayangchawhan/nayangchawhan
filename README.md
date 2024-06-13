@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayangchawhan&label=Profile%20views&color=0e75b6&style=flat" alt="nayangchawhan" /> </p>
 
 - 🌱 I’m currently learning **Android**
-
+- 💞️ I’m looking to collaborate on Web designing
+- 👀 I’m interested in HTML,CSS,react js and c++  programming 
 - 📫 How to reach me **iamnayanchawhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
